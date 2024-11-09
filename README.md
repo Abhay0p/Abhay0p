@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on new projects.
 - 📫 How to reach me, @_abhay_0p_ on instagram.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Ideas don not come fully formed until you work on them.
+- ⚡ Fun fact: Ideas don't fully materialize until you start working on them.
 
 <!---
 Abhay0p/Abhay0p is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
