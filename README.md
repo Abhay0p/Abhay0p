@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abhay0p
-- 🌱 I’m currently learning web development.
+- 🌱 I’m currently learning java.
 - 💞️ I’m looking to collaborate on new projects.
 - 📫 How to reach me, @_abhay_0p_ on instagram.
 - 😄 Pronouns: He/Him
