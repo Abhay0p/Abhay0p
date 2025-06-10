@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abhay0p
 - 🌱 I’m currently learning java.
 - 💞️ I’m looking to collaborate on new projects.
-- 📫 How to reach me, @_abhay_0p_ on instagram.
+- 📫 Reach me, @abhaynarayan0001@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Ideas don't fully materialize until you start working on them.
 
