@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Abhay0p
-- 🌱 I’m currently learning java.
-- 💞️ I’m looking to collaborate on new projects.
+- 👋 Hi, I’m Abhay
+- 🌱 I’m currently understanding data structure and algorithms.
 - 📫 Reach me, @abhaynarayan0001@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Ideas don't fully materialize until you start working on them.
