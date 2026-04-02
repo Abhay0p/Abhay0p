@@ -8,7 +8,7 @@ I'm an Undergraduate student at **Bennett University** with a passion for buildi
 - 🔭 **Goals:** Building a solid foundation in computer science and contributing to impactful projects.
 
 ### 🛠️ Tech Stack & Tools
-(Feel free to add yours here! Examples:)
+
 ![Java](https://shields.io) 
 ![C++](https://shields.io)
 ![MongoDB](https://shields.io)
