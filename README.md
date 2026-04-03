@@ -14,8 +14,8 @@ I'm an Undergraduate student at **Bennett University** with a passion for buildi
 ![MongoDB](https://shields.io)
 
 ### 📬 Get In Touch
-- **Email:** [abhaynarayan0001@gmail.com](mailto:abhaynarayan0001@gmail.com)
-- **LinkedIn:** [https://www.linkedin.com/in/abhay-dubey-0p/]
+- [![LinkedIn](https://shields.io)](https://www.linkedin.com/in/abhay-dubey-0p/)
+- [![Gmail](https://shields.io)](mailto:abhaynarayan0001@gmail.com)
 
 ---
 *“The secret of getting ahead is getting started.”*
