@@ -5,19 +5,26 @@
 </p>
 
 ### 🛠️ Tech Stack & Tools
+<!-- These icons are bundled into one stable request -->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev" />
+  </a>
+</p>
 
-<img src="https://shields.io" alt="Java" /> 
-<img src="https://shields.io" alt="C++" />
-<img src="[https://shields.io](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)" alt="React" />
-<img src="https://shields.io" alt="MongoDB" />
-
-### 📊 GitHub Stats
-![Abhay's Stats](https://vercel.app)
-![Top Langs](https://vercel.app)
+### 🏆 GitHub Achievements
+<!-- Trophies are a more stable alternative to stats cards -->
+<p align="left">
+  <a href="https://github.com">
+    <img src="https://vercel.app" alt="Abhay's Trophies" />
+  </a>
+</p>
 
 ### 📬 Get In Touch
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/abhay-dubey-0p/)
-[![Gmail](https://shields.io)](mailto:abhaynarayan0001@gmail.com)
+<p align="left">
+<a href="https://linkedin.com" target="blank"><img align="center" src="https://shields.io" alt="LinkedIn" /></a>
+<a href="mailto:abhaynarayan0001@gmail.com" target="blank"><img align="center" src="https://shields.io" alt="Gmail" /></a>
+</p>
 
 ---
 *“The secret of getting ahead is getting started.”*
