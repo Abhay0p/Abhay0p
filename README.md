@@ -8,7 +8,7 @@
 
 ![Java](https://shields.io) 
 ![C++](https://shields.io)
-![React](https://shields.io)
+![React]([https://shields.io](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge))
 ![MongoDB](https://shields.io)
 
 ### 📊 GitHub Stats
