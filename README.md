@@ -8,7 +8,7 @@
 
 <img src="https://shields.io" alt="Java" /> 
 <img src="https://shields.io" alt="C++" />
-<img src="https://shields.io" alt="React" />
+<img src="[https://shields.io](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)" alt="React" />
 <img src="https://shields.io" alt="MongoDB" />
 
 ### 📊 GitHub Stats
